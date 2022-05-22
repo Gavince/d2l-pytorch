@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/chapter-15-自然语言处理-应用/glove.6B.100d/
+/chapter-15-自然语言处理-应用/.ipynb_checkpoints/
+/data/
